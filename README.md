@@ -1,9 +1,9 @@
 ## Olá!!! Eu sou Miqueias Belfort 👋
 
+- 💻 Trabalho com front-end
 - 🌱 Estou aprendendo JavaScript
 - 📫 Entre em contato pelo meu celular (61) 992254791
-- 😄 Pronouns: Ele
-- ⚡ Fun fact: Começei a programar esse ano
+- ⚡ Fun fact: Foco, Meta e Esforço
 <div align="center">
   <a href="https://github.com/miqueiasbelfort">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiasbelfort&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
