@@ -2,7 +2,7 @@
 
 - 💻 Trabalho com front-end
 - 🌱 Estou aprendendo JavaScript
-- 📫 Entre em contato pelo meu celular (61) 992254791
+- 📫 Entre em contato pelo meu celular pelo meu email
 - ⚡ Fun fact: Foco, Meta e Esforço
 <div align="center">
   <a href="https://github.com/miqueiasbelfort">
