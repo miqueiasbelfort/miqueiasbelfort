@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou Miqueias Belfort 👋
 
 - 💻 Trabalho com front-end
-- 🌱 Estou aprendendo JavaScript
+- 🌱 Estou aprendendo JavaScript, React, Node, jQuery e MySQL
 - 📫 Entre em contato pelo meu celular pelo meu email
 - ⚡ Fun fact: Foco, Meta e Esforço
 <div align="center">
