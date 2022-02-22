@@ -1,4 +1,4 @@
-## Olá!!! Eu sou Miqueias Belfort 👋
+## Hi!!! I'm Miqueias Belfort 👋
 
 - 💻 I work with front-end
 - 🌱 I'm learn JavaScript, React, Node, MySQL and MongoDB
