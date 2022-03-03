@@ -1,6 +1,6 @@
 ## Hi!!! I'm Miqueias Belfort 👋
 
-- 💻 I work with front-end
+- 💻 I work with front-end and I wanna be a Full Stack developer
 - 🌱 I'm learn JavaScript, React, Node, MySQL and MongoDB
 - 📫 contact with me by email
 - ⚡ Fun fact: In a moment of my life I wanted to learn Java, I failed. 😅😭
