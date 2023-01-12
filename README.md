@@ -3,9 +3,9 @@
 
 ## Hi!!! I'm Miqueias Belfort 👋
 
-- 💻 I work with front-end and I wanna be a Full Stack developer
-- 🌱 I'm learn JavaScript, React, Node, MySQL and MongoDB
-- 📫 contact with me by email
+- 💻 I'm Full Stack developer
+- 🌱 I'm learn Golang, Docker and Test with Jasmine
+- 📫 contact with me by email or a social media
 - ⚡ Fun fact: In a moment of my life I wanted to learn Java, I failed. 😅😭
 
 ![Miqueias Belfort GitHub stats](https://github-readme-stats.vercel.app/api?username=miqueiasbelfort&show_icons=true&theme=tokyonight) 
